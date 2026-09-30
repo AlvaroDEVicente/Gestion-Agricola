@@ -1,0 +1,6 @@
+# Configuración del IDE (NetBeans)
+nbproject/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
