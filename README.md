@@ -134,6 +134,7 @@ Es un proyecto del ciclo y hay cosas que haría distinto hoy:
 1. Crea la base de datos en MySQL con el script `database.sql`.
 2. Revisa los datos de conexión en `conexion.php`.
 3. Sirve la carpeta con Apache y PHP (por ejemplo, XAMPP) y abre `index.php`.
+4. Entra con un usuario de prueba de cada perfil: `admin` / `admin` (administración), `maquinista` / `1234` y `agricultor` / `1234`.
 
 ---
 
